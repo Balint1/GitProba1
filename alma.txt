@@ -1,5 +1,6 @@
 egy
 ketto
 harom
-Negy
+négyes
 öt
+hét
