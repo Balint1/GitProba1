@@ -2,3 +2,4 @@ egy
 ketto
 harom
 Negy
+öt
